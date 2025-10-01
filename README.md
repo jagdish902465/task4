@@ -1,5 +1,5 @@
 # task4
-[01-10-2025 20:10] +91 90246 55941: A simple Java CLI-based Notes App that lets you create and read notes from a file using FileWriter and BufferedReader
+ A simple Java CLI-based Notes App that lets you create and read notes from a file using FileWriter and BufferedReader
 [01-10-2025 20:10] +91 90246 55941: Features
 
 Add new notes (saved into notes.txt)
